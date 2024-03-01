@@ -1,0 +1,2 @@
+# StratiCounterGUI
+a GUI
