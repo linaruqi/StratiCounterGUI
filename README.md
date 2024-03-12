@@ -1,6 +1,6 @@
 # StratiCounterGUI
 a GUI version of StratiCounter(mai winstrup,2016)
-If you encounter any problems or have valuable comments and suggestions, please contact via mailbox：luoyuqing@itpcas.ac.cn
+If you encounter any problems or have valuable comments and suggestions, please contact via mailbox：linaruqi@hotmail.com
 
 note. the userguide inside has been translated into  Chinese, please find the English version in the original package from StratiCounter-master.
 
